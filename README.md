@@ -1,3 +1,3 @@
 # Vegetation-Analysis
-Vegetation cover of sangli in span of 1o years
+Vegetation cover of sangli in span of 10 years
 
